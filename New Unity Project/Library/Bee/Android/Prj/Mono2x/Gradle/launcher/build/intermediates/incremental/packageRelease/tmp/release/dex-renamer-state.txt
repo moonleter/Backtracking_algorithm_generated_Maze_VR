@@ -1,0 +1,4 @@
+#Thu May 04 16:39:08 CEST 2023
+base.0=/Users/simonkunz/Downloads/APUI-VR/New Unity Project/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
